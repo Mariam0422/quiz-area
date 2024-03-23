@@ -57,7 +57,7 @@ a {
     border: 1px solid black;
     margin: auto;
     transition-duration: 1s;    
-    /* transform: translate(0, -500px); */
+    transform: translate(0, -500px);
     padding: 20px;
 }
 
